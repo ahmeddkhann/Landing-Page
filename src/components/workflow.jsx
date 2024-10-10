@@ -17,7 +17,7 @@ const Workflowing = () => {
         },
         {
             title: "Share work on time",
-            description: "Track the perfomance of your VR apps and gain insights into user behavior."
+            description: "Track the perfomance of your VR apps and gain insights into user behavior!."
         }
     ]
   return (
