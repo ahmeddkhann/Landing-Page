@@ -2,10 +2,11 @@ import React from "react";
 import {
   Bot,
   Airplay,
+  Chrome,
   BoomBox,
   Cherry,
-  ClipboardPenLine,
-} from "lucide-react";
+  ClipboardPenLine
+} from "lucide-react"
 const Features = () => {
   const text = [
     {
@@ -38,7 +39,7 @@ const Features = () => {
     },
     {
       id: 5,
-      icon: <Bot />,
+      icon: <Chrome />,
       title: "Collaboration Tools",
       paragraph:
         "Build VR Applications that run seamlessly across multiple platforms, including mobile, desktop and VR headset.",
