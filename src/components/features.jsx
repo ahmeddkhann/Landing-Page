@@ -4,7 +4,6 @@ import {
   Airplay,
   BoomBox,
   Cherry,
-  Chrome,
   ClipboardPenLine,
 } from "lucide-react";
 const Features = () => {
@@ -39,7 +38,7 @@ const Features = () => {
     },
     {
       id: 5,
-      icon: <Chrome />,
+      icon: <Bot />,
       title: "Collaboration Tools",
       paragraph:
         "Build VR Applications that run seamlessly across multiple platforms, including mobile, desktop and VR headset.",
