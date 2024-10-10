@@ -6,8 +6,7 @@ import Workflowing from './components/workflow'
 import Pricing from './components/pricing'
 import Testimonals from './components/testimonals'
 import Footer from './components/footer'
-import AxiosTut from './components/axios'
-import PostApi from './components/post'
+
 
 
 const App = () => {
